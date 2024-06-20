@@ -1,0 +1,45 @@
+.files{
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+}
+.contacts{
+    display: flex;
+    justify-content: center;
+    gap: 6em;
+}
+.social-links{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.contact-info{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+div.filters > a{
+    text-align: center;
+height: 20px;
+width: 150px;
+}
+
+#presentation{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 20%;
+}
+#cursus{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* align-items: center; */
+}
+img.photo {
+    height: 450px;
+    width: auto;
+}
+
